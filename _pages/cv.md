@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Behavioral Genetics, 2028 (expected)
+* Ph.D in Behavioral Genetics, King's College London, 2028 (expected)
 * BSc in Psychology, King's College London, 2024
 
 Work experience
